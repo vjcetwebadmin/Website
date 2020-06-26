@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5ee4b740.chunk.css",
-    "main.js": "/static/js/main.0daad6dd.chunk.js",
-    "main.js.map": "/static/js/main.0daad6dd.chunk.js.map",
+    "main.js": "/static/js/main.8e33fabe.chunk.js",
+    "main.js.map": "/static/js/main.8e33fabe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
-    "static/js/2.7ec9b8eb.chunk.js": "/static/js/2.7ec9b8eb.chunk.js",
-    "static/js/2.7ec9b8eb.chunk.js.map": "/static/js/2.7ec9b8eb.chunk.js.map",
+    "static/js/2.06809234.chunk.js": "/static/js/2.06809234.chunk.js",
+    "static/js/2.06809234.chunk.js.map": "/static/js/2.06809234.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f5487fc98ec9e7202e1c975bd4f782fb.js": "/precache-manifest.f5487fc98ec9e7202e1c975bd4f782fb.js",
+    "precache-manifest.7958aba2d70904e9c47690370c996fba.js": "/precache-manifest.7958aba2d70904e9c47690370c996fba.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ee4b740.chunk.css.map": "/static/css/main.5ee4b740.chunk.css.map",
-    "static/js/2.7ec9b8eb.chunk.js.LICENSE.txt": "/static/js/2.7ec9b8eb.chunk.js.LICENSE.txt",
+    "static/js/2.06809234.chunk.js.LICENSE.txt": "/static/js/2.06809234.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/static/media/102.ded986e1.jpg",
@@ -274,6 +274,7 @@
     "static/media/ValsaMathew.jpg": "/static/media/ValsaMathew.c17f02fe.jpg",
     "static/media/Vinijakurian.jpg": "/static/media/Vinijakurian.a92b080d.jpg",
     "static/media/Web site badge.jpg": "/static/media/Web site badge.3957f6b5.jpg",
+    "static/media/Website badge a.jpg": "/static/media/Website badge a.ae34aa98.jpg",
     "static/media/admissionews.jpg": "/static/media/admissionews.e60c28e9.jpg",
     "static/media/allijohn.jpeg": "/static/media/allijohn.5cbd8e13.jpeg",
     "static/media/alphonsajoy.jpg": "/static/media/alphonsajoy.41aa55b1.jpg",
@@ -439,8 +440,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
-    "static/js/2.7ec9b8eb.chunk.js",
+    "static/js/2.06809234.chunk.js",
     "static/css/main.5ee4b740.chunk.css",
-    "static/js/main.0daad6dd.chunk.js"
+    "static/js/main.8e33fabe.chunk.js"
   ]
 }
