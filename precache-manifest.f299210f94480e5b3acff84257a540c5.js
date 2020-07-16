@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aab5320d4b015bbb8864965689afdabd",
+    "revision": "c1a48f638da047c841aa4b42e668fffb",
     "url": "/index.html"
   },
   {
-    "revision": "7d7b6330eea4e7417db0",
+    "revision": "1e138f1f1af41ef7bfda",
     "url": "/static/css/main.1524aba1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0942df0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d7b6330eea4e7417db0",
-    "url": "/static/js/main.0d4fae10.chunk.js"
+    "revision": "1e138f1f1af41ef7bfda",
+    "url": "/static/js/main.a7d78a3a.chunk.js"
   },
   {
     "revision": "7862395579258e6f884b",
@@ -1656,8 +1656,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/placementnews.98058f35.jpg"
   },
   {
-    "revision": "67778a43a35d25a93d24e35523a19a12",
-    "url": "/static/media/poster.67778a43.png"
+    "revision": "45dd0e51f07092cb72d76ff773a46293",
+    "url": "/static/media/poster.45dd0e51.png"
   },
   {
     "revision": "b53b7b610bf3a22252e0eb7677564cb2",
