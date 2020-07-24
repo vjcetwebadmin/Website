@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98b35d7629bba2dff718c3a8118f5490",
+    "revision": "157f6839c7dbc45d1a55f7598e4a5fb9",
     "url": "/index.html"
   },
   {
-    "revision": "81de447ea377da45a5ee",
-    "url": "/static/css/main.c3d64d1c.chunk.css"
+    "revision": "652bbad58d20c0ef4d1a",
+    "url": "/static/css/main.9880d963.chunk.css"
   },
   {
-    "revision": "92dfb3b141e3750b5c64",
-    "url": "/static/js/2.edf1af99.chunk.js"
+    "revision": "2e65ac7d2d3b36f8e7a3",
+    "url": "/static/js/2.24123ade.chunk.js"
   },
   {
-    "revision": "0ad2b8d6ca937ca051051cd80b2a6329",
-    "url": "/static/js/2.edf1af99.chunk.js.LICENSE.txt"
+    "revision": "fbbfe9ed4dc77af342a4a500830ec9a4",
+    "url": "/static/js/2.24123ade.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81de447ea377da45a5ee",
-    "url": "/static/js/main.d8ae5c54.chunk.js"
+    "revision": "652bbad58d20c0ef4d1a",
+    "url": "/static/js/main.4ff0e7dd.chunk.js"
   },
   {
     "revision": "7862395579258e6f884b",
@@ -1208,8 +1208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/civilsyllabuslogo.8a43c6bf.png"
   },
   {
-    "revision": "a3a37d2a5a184dc5ab33e44c2c915691",
-    "url": "/static/media/close.a3a37d2a.svg"
+    "revision": "903d7d59ea24d63d6fcd6fd14e9ad138",
+    "url": "/static/media/close.903d7d59.svg"
   },
   {
     "revision": "ba1c8a60c8eab9dcdc8768a8f9e48997",
@@ -1372,8 +1372,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/geethadomini.d9ea6798.jpeg"
   },
   {
-    "revision": "f4af7e131451e3e0c68465d9d8a83421",
-    "url": "/static/media/hamburger.f4af7e13.svg"
+    "revision": "3d9b5a28a88c92156c6ab42205ae358f",
+    "url": "/static/media/hamburger.3d9b5a28.png"
+  },
+  {
+    "revision": "746a5e04bd0be42c77705d254403736b",
+    "url": "/static/media/hamburger.746a5e04.svg"
   },
   {
     "revision": "097209cf0372542b718d7db4b5b222ea",
