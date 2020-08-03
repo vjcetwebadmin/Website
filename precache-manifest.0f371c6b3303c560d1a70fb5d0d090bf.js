@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41b46aec180c769b481b6677f722dd43",
+    "revision": "1a0dd99e984ee2668b18c24b8a4a352b",
     "url": "/index.html"
   },
   {
-    "revision": "2423af743c789a5fa078",
+    "revision": "c1b0889d1fca50932bf6",
     "url": "/static/css/main.a69ce2b2.chunk.css"
   },
   {
-    "revision": "a672a5c0898cee8b25a1",
-    "url": "/static/js/2.094b0c21.chunk.js"
+    "revision": "0446b85aaaa9d591aba5",
+    "url": "/static/js/2.801e4494.chunk.js"
   },
   {
     "revision": "0ad2b8d6ca937ca051051cd80b2a6329",
-    "url": "/static/js/2.094b0c21.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.801e4494.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2423af743c789a5fa078",
-    "url": "/static/js/main.e9fe8038.chunk.js"
+    "revision": "c1b0889d1fca50932bf6",
+    "url": "/static/js/main.529c73c5.chunk.js"
   },
   {
     "revision": "7862395579258e6f884b",
@@ -732,14 +732,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CSFAC126.7bd7afdb.jpg"
   },
   {
-    "revision": "bf572ea0aa94758b66c63d93360df4c4",
-    "url": "/static/media/CSI.bf572ea0.png"
-  },
-  {
-    "revision": "f8953b6891a7838d3b385fadadf954d7",
-    "url": "/static/media/CSI.f8953b68.png"
-  },
-  {
     "revision": "1d9cd2c72e1246a7e49871b00f71573d",
     "url": "/static/media/CSSTF113.1d9cd2c7.jpg"
   },
@@ -766,10 +758,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e92a64cedc9b53e65b3fc73a41fd0fc",
     "url": "/static/media/DCLab.9e92a64c.JPG"
-  },
-  {
-    "revision": "4cdb2d053f18888f116a53e367dfb12b",
-    "url": "/static/media/DrJosephkunjupaul.4cdb2d05.jpg"
   },
   {
     "revision": "775d792c1852afd770ad318d99881ed8",
@@ -836,12 +824,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/IEE2.8b6c4788.png"
   },
   {
-    "revision": "f54e5bf38f65975e9710829014e8998e",
-    "url": "/static/media/IEEE.f54e5bf3.png"
-  },
-  {
-    "revision": "9dffbb212f3445206db874e51553084f",
-    "url": "/static/media/IGBC.9dffbb21.jpg"
+    "revision": "b6c1071571d21d181507e29a4b16ef47",
+    "url": "/static/media/IGBC.b6c10715.jpg"
   },
   {
     "revision": "54cd53e3d9a9712dcef002980e9ea235",
@@ -900,12 +884,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/IMG_9928.31ce780e.jpg"
   },
   {
-    "revision": "3079abb84735ce2d6fff3169b3414184",
-    "url": "/static/media/ISTE.3079abb8.png"
+    "revision": "5b858294355825f07e87a8fe504b2cd9",
+    "url": "/static/media/ISTE.5b858294.png"
   },
   {
-    "revision": "c7996dfdb1189add34ac0ae644e99225",
-    "url": "/static/media/ISTE1.c7996dfd.png"
+    "revision": "5b858294355825f07e87a8fe504b2cd9",
+    "url": "/static/media/ISTE1.5b858294.png"
   },
   {
     "revision": "d274b5969ee4d6f13fecfc1b31ad1834",
@@ -960,12 +944,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Mtech4.fc129282.jpg"
   },
   {
-    "revision": "21ee8899a8d3d882b1ca479ac279091b",
-    "url": "/static/media/NSS.21ee8899.png"
-  },
-  {
-    "revision": "9fb4ff05f591f2d86ec1348b0440a533",
-    "url": "/static/media/NSS.9fb4ff05.png"
+    "revision": "101cf570497909c76534caa83f183d1d",
+    "url": "/static/media/NSS.101cf570.png"
   },
   {
     "revision": "82671d845cb2f3e8c635a2923557e6e3",
@@ -1020,8 +1000,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Registernow.f324897a.jpg"
   },
   {
-    "revision": "ac4f011bbd200e0743568d77c7f37d86",
-    "url": "/static/media/SAEINDIA.ac4f011b.jpg"
+    "revision": "25001993920f04822158527ecc3bd5a4",
+    "url": "/static/media/SAEINDIA.25001993.jpg"
+  },
+  {
+    "revision": "9e654bf41924aa4a6d1de5e88e8fcfa5",
+    "url": "/static/media/SAEINDIA.9e654bf4.jpg"
   },
   {
     "revision": "58ff981751579be2a32d20d6aefe00ed",
@@ -1080,12 +1064,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Section3.4719d779.jpg"
   },
   {
-    "revision": "88a8ecaedce1b9fbd7d2a3be5821df69",
-    "url": "/static/media/Section3.88a8ecae.jpg"
+    "revision": "c49ca68dc56dce04f2697cc7df5684a4",
+    "url": "/static/media/Section3.c49ca68d.png"
   },
   {
     "revision": "ecdf93833c96e27087a81a0d425cad59",
-    "url": "/static/media/Section3.ecdf9383.png"
+    "url": "/static/media/Section3.ecdf9383.jpg"
   },
   {
     "revision": "571807a2c33c99a1c3585d0861597ebe",
@@ -1202,10 +1186,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d01c88bd17c71309d1b6eea887e71b0d",
     "url": "/static/media/cehonour1.d01c88bd.jpg"
-  },
-  {
-    "revision": "ad8166e496a30b8deac4f0c66e3c0f73",
-    "url": "/static/media/chinnammavarghese.ad8166e4.jpeg"
   },
   {
     "revision": "8a43c6bfaf10fde30efd5f3d5f40808c",
@@ -1424,16 +1404,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iedc_qr.ae779db2.jpg"
   },
   {
-    "revision": "d8410367cb881ab93cf3694f03d6eeb4",
-    "url": "/static/media/ieee.d8410367.jpg"
+    "revision": "5ddf615eadf5d0b3a7660db48a48f8e3",
+    "url": "/static/media/ieee.5ddf615e.jpg"
   },
   {
-    "revision": "5463260c90cfaedb9144a829be8730d3",
-    "url": "/static/media/iete.5463260c.jpg"
-  },
-  {
-    "revision": "6f6ea751c86d63773e1cb676859a4a33",
-    "url": "/static/media/iete.6f6ea751.jpg"
+    "revision": "e4754d4febf96dafd0b028a21f4aaa3a",
+    "url": "/static/media/iete.e4754d4f.jpg"
   },
   {
     "revision": "24ba656f0bc6b5f1cd5e8bf13efef2cf",
@@ -1618,10 +1594,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a10dbb06220d421b4ff044e8b229b5f6",
     "url": "/static/media/marinashajan.a10dbb06.jpeg"
-  },
-  {
-    "revision": "0869f1619d3d77952c9346f30c5d23cb",
-    "url": "/static/media/marymo.0869f161.jpeg"
   },
   {
     "revision": "0e9ce6bc6999f32a66590b500d477ff4",
