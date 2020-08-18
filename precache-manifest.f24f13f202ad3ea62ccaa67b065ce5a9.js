@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec8e9574f1f98c48906bcde5dcbb265d",
+    "revision": "81d1bbf5f13f46b579bdf2de14672b18",
     "url": "/index.html"
   },
   {
-    "revision": "f24c5048fe0dfbd6475d",
-    "url": "/static/css/main.72868835.chunk.css"
+    "revision": "63eb48324fa1126bd527",
+    "url": "/static/css/main.58a829ee.chunk.css"
   },
   {
     "revision": "e0fcac82851e65d735ff",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c37b4735.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f24c5048fe0dfbd6475d",
-    "url": "/static/js/main.2305c3b9.chunk.js"
+    "revision": "63eb48324fa1126bd527",
+    "url": "/static/js/main.b144e046.chunk.js"
   },
   {
     "revision": "7862395579258e6f884b",
@@ -812,8 +812,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/IEE1.ec17c581.png"
   },
   {
-    "revision": "8b6c47880ec59689bbac5d0e2ead106d",
-    "url": "/static/media/IEE2.8b6c4788.png"
+    "revision": "de1ef9b64b5da30804dc2d6a918acf72",
+    "url": "/static/media/IEE2.de1ef9b6.png"
   },
   {
     "revision": "d25c9ce8b4ed75f8211c39b37143451b",
@@ -1020,40 +1020,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SIBY BABY.e9070abe.jpg"
   },
   {
-    "revision": "a837d55e2f2991e3e50a01f09513939f",
-    "url": "/static/media/Section1.a837d55e.jpg"
+    "revision": "26bc91bb3a4af12d7c48d4085fd83967",
+    "url": "/static/media/Section1.26bc91bb.jpg"
+  },
+  {
+    "revision": "2b4e6465035b7bafbf11d76d152811fe",
+    "url": "/static/media/Section1.2b4e6465.jpg"
   },
   {
     "revision": "e6fffb1f8689d6594b5e9e6f3148eb0c",
     "url": "/static/media/Section1.e6fffb1f.jpg"
   },
   {
-    "revision": "fdc476a900f457064bbdcae7baffadd9",
-    "url": "/static/media/Section1.fdc476a9.jpg"
-  },
-  {
-    "revision": "014ce95845775ec553d37c2855d215ca",
-    "url": "/static/media/Section2.014ce958.jpg"
-  },
-  {
     "revision": "05c468c8da7530d3b0a45c5bd87ab36a",
     "url": "/static/media/Section2.05c468c8.jpg"
   },
   {
-    "revision": "38ae5f4b969e23b95c3d8741441b971c",
-    "url": "/static/media/Section2.38ae5f4b.jpg"
+    "revision": "1d2ea2e130be763bc3b40adb416be80e",
+    "url": "/static/media/Section2.1d2ea2e1.jpg"
   },
   {
-    "revision": "d40c8de9fbf73e6b4c24eb136a7ad552",
-    "url": "/static/media/Section2.d40c8de9.jpg"
+    "revision": "a4998e8db91d904eb15cf66015915076",
+    "url": "/static/media/Section2.a4998e8d.jpg"
+  },
+  {
+    "revision": "c21dd545f143ef8d74c403827095d90c",
+    "url": "/static/media/Section2.c21dd545.jpg"
+  },
+  {
+    "revision": "06803cfec1bd4bc44c80465031d93ddc",
+    "url": "/static/media/Section3.06803cfe.jpg"
   },
   {
     "revision": "34faaf08e9df983d19d07389933d6683",
     "url": "/static/media/Section3.34faaf08.jpg"
-  },
-  {
-    "revision": "4719d7798d9fc62513a9b4b0a881ac37",
-    "url": "/static/media/Section3.4719d779.jpg"
   },
   {
     "revision": "c49ca68dc56dce04f2697cc7df5684a4",
@@ -1064,8 +1064,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Section3.ecdf9383.jpg"
   },
   {
-    "revision": "571807a2c33c99a1c3585d0861597ebe",
-    "url": "/static/media/Section5.571807a2.jpg"
+    "revision": "383f92a546a0bf2be1f69e65e2458490",
+    "url": "/static/media/Section5.383f92a5.jpg"
   },
   {
     "revision": "b85c9986b060dd8e0c15e19f22a22df6",
@@ -1184,8 +1184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/civilsyllabuslogo.8a43c6bf.png"
   },
   {
-    "revision": "903d7d59ea24d63d6fcd6fd14e9ad138",
-    "url": "/static/media/close.903d7d59.svg"
+    "revision": "9e9dd2a7d840ca1385b210903709d8e0",
+    "url": "/static/media/close.9e9dd2a7.svg"
   },
   {
     "revision": "ba1c8a60c8eab9dcdc8768a8f9e48997",
