@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e46e3344.chunk.css",
-    "main.js": "/static/js/main.b8fdd6ea.chunk.js",
-    "main.js.map": "/static/js/main.b8fdd6ea.chunk.js.map",
+    "main.css": "/static/css/main.0bf17923.chunk.css",
+    "main.js": "/static/js/main.f30d1e64.chunk.js",
+    "main.js.map": "/static/js/main.f30d1e64.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
     "static/js/2.c37b4735.chunk.js": "/static/js/2.c37b4735.chunk.js",
     "static/js/2.c37b4735.chunk.js.map": "/static/js/2.c37b4735.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ce4ff7c486e4598a52738e595afbcb72.js": "/precache-manifest.ce4ff7c486e4598a52738e595afbcb72.js",
+    "precache-manifest.e947c8ee57f3c6e31ea01f811d60f060.js": "/precache-manifest.e947c8ee57f3c6e31ea01f811d60f060.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e46e3344.chunk.css.map": "/static/css/main.e46e3344.chunk.css.map",
+    "static/css/main.0bf17923.chunk.css.map": "/static/css/main.0bf17923.chunk.css.map",
     "static/js/2.c37b4735.chunk.js.LICENSE.txt": "/static/js/2.c37b4735.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
@@ -408,7 +408,7 @@
     "static/media/nextArrow.svg": "/static/media/nextArrow.0a7287eb.svg",
     "static/media/nobymathew.jpeg": "/static/media/nobymathew.e414f518.jpeg",
     "static/media/placementnews.jpg": "/static/media/placementnews.98058f35.jpg",
-    "static/media/poster.png": "/static/media/poster.45dd0e51.png",
+    "static/media/poster.png": "/static/media/poster.0e4350a0.png",
     "static/media/previousArrow.svg": "/static/media/previousArrow.b53b7b61.svg",
     "static/media/principal.JPG": "/static/media/principal.635b68ca.JPG",
     "static/media/rajeshgeorge.JPEG": "/static/media/rajeshgeorge.18c0f1b7.JPEG",
@@ -431,14 +431,14 @@
     "static/media/unai.png": "/static/media/unai.58341133.png",
     "static/media/univ.jpg": "/static/media/univ.8ec76ba2.jpg",
     "static/media/vbic.jpg": "/static/media/vbic.ee7e046e.jpg",
-    "static/media/vjcet.mp4": "/static/media/vjcet.bcb43c19.mp4",
+    "static/media/vjcet.mp4": "/static/media/vjcet.95891583.mp4",
     "static/media/vjcetbg.jpg": "/static/media/vjcetbg.09c402ab.jpg",
     "static/media/youtube.svg": "/static/media/youtube.0402a3db.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
     "static/js/2.c37b4735.chunk.js",
-    "static/css/main.e46e3344.chunk.css",
-    "static/js/main.b8fdd6ea.chunk.js"
+    "static/css/main.0bf17923.chunk.css",
+    "static/js/main.f30d1e64.chunk.js"
   ]
 }
