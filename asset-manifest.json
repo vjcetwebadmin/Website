@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bf17923.chunk.css",
-    "main.js": "/static/js/main.0e764363.chunk.js",
-    "main.js.map": "/static/js/main.0e764363.chunk.js.map",
+    "main.css": "/static/css/main.525a6aba.chunk.css",
+    "main.js": "/static/js/main.e7aa541b.chunk.js",
+    "main.js.map": "/static/js/main.e7aa541b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
     "static/js/2.c37b4735.chunk.js": "/static/js/2.c37b4735.chunk.js",
     "static/js/2.c37b4735.chunk.js.map": "/static/js/2.c37b4735.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.33e9964a778e1d67319f14948ad64308.js": "/precache-manifest.33e9964a778e1d67319f14948ad64308.js",
+    "precache-manifest.c9a9ecde3d009b314b1d54d5c5af86da.js": "/precache-manifest.c9a9ecde3d009b314b1d54d5c5af86da.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0bf17923.chunk.css.map": "/static/css/main.0bf17923.chunk.css.map",
+    "static/css/main.525a6aba.chunk.css.map": "/static/css/main.525a6aba.chunk.css.map",
     "static/js/2.c37b4735.chunk.js.LICENSE.txt": "/static/js/2.c37b4735.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
@@ -286,6 +286,7 @@
     "static/media/bijuvarghese.jpeg": "/static/media/bijuvarghese.0500464e.jpeg",
     "static/media/binopaul.jpg": "/static/media/binopaul.b02a0e8b.jpg",
     "static/media/blockchain.jpg": "/static/media/blockchain.9426abd3.jpg",
+    "static/media/bodhi.jpg": "/static/media/bodhi.60db764b.jpg",
     "static/media/brightyjose.jpg": "/static/media/brightyjose.8dbbd87a.jpg",
     "static/media/calender.svg": "/static/media/calender.7504c889.svg",
     "static/media/campus.jpg": "/static/media/campus.c7d23d77.jpg",
@@ -392,7 +393,7 @@
     "static/media/leenalisabraham.jpeg": "/static/media/leenalisabraham.de53c3b6.jpeg",
     "static/media/lissysunny.JPG": "/static/media/lissysunny.73c0c257.JPG",
     "static/media/lisyjose.jpeg": "/static/media/lisyjose.e9cae186.jpeg",
-    "static/media/magnum.jpg": "/static/media/magnum.6b16e7b6.jpg",
+    "static/media/magnum.jpg": "/static/media/magnum.dd10835d.jpg",
     "static/media/manager.jpg": "/static/media/manager.ec5b1059.jpg",
     "static/media/marinashajan.jpeg": "/static/media/marinashajan.a10dbb06.jpeg",
     "static/media/mdjose.jpeg": "/static/media/mdjose.0e9ce6bc.jpeg",
@@ -438,7 +439,7 @@
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
     "static/js/2.c37b4735.chunk.js",
-    "static/css/main.0bf17923.chunk.css",
-    "static/js/main.0e764363.chunk.js"
+    "static/css/main.525a6aba.chunk.css",
+    "static/js/main.e7aa541b.chunk.js"
   ]
 }
