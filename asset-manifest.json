@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.525a6aba.chunk.css",
-    "main.js": "/static/js/main.e7aa541b.chunk.js",
-    "main.js.map": "/static/js/main.e7aa541b.chunk.js.map",
+    "main.js": "/static/js/main.bc5da2c5.chunk.js",
+    "main.js.map": "/static/js/main.bc5da2c5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
-    "static/js/2.c37b4735.chunk.js": "/static/js/2.c37b4735.chunk.js",
-    "static/js/2.c37b4735.chunk.js.map": "/static/js/2.c37b4735.chunk.js.map",
+    "static/js/2.484c3d50.chunk.js": "/static/js/2.484c3d50.chunk.js",
+    "static/js/2.484c3d50.chunk.js.map": "/static/js/2.484c3d50.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c9a9ecde3d009b314b1d54d5c5af86da.js": "/precache-manifest.c9a9ecde3d009b314b1d54d5c5af86da.js",
+    "precache-manifest.bf651b6a84a5d219cc54a1107cda2c84.js": "/precache-manifest.bf651b6a84a5d219cc54a1107cda2c84.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.525a6aba.chunk.css.map": "/static/css/main.525a6aba.chunk.css.map",
-    "static/js/2.c37b4735.chunk.js.LICENSE.txt": "/static/js/2.c37b4735.chunk.js.LICENSE.txt",
+    "static/js/2.484c3d50.chunk.js.LICENSE.txt": "/static/js/2.484c3d50.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/static/media/102.ded986e1.jpg",
@@ -187,6 +187,7 @@
     "static/media/CSFAC115.jpg": "/static/media/CSFAC115.ec24517e.jpg",
     "static/media/CSFAC124.jpg": "/static/media/CSFAC124.61ffcedf.jpg",
     "static/media/CSFAC126.jpg": "/static/media/CSFAC126.7bd7afdb.jpg",
+    "static/media/CSFAC26.JPG": "/static/media/CSFAC26.e2cd8d5f.JPG",
     "static/media/CSSTF113.jpg": "/static/media/CSSTF113.1d9cd2c7.jpg",
     "static/media/CarouselThreeNext.svg": "/static/media/CarouselThreeNext.9eeb8255.svg",
     "static/media/CarouselThreePrevious.svg": "/static/media/CarouselThreePrevious.ef55c608.svg",
@@ -332,6 +333,7 @@
     "static/media/eehonours5.JPEG": "/static/media/eehonours5.1828bafa.JPEG",
     "static/media/eehonours6.jpg": "/static/media/eehonours6.56dd50c2.jpg",
     "static/media/elsyjoseph.jpeg": "/static/media/elsyjoseph.8822c18c.jpeg",
+    "static/media/fac24.jpg": "/static/media/fac24.431df802.jpg",
     "static/media/fb.svg": "/static/media/fb.67f6f583.svg",
     "static/media/feepayment.png": "/static/media/feepayment.cb1359ba.png",
     "static/media/firstyearsyllabuslogo.svg": "/static/media/firstyearsyllabuslogo.03da1e99.svg",
@@ -438,8 +440,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
-    "static/js/2.c37b4735.chunk.js",
+    "static/js/2.484c3d50.chunk.js",
     "static/css/main.525a6aba.chunk.css",
-    "static/js/main.e7aa541b.chunk.js"
+    "static/js/main.bc5da2c5.chunk.js"
   ]
 }
