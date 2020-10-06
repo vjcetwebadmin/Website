@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.525a6aba.chunk.css",
-    "main.js": "/static/js/main.bc5da2c5.chunk.js",
-    "main.js.map": "/static/js/main.bc5da2c5.chunk.js.map",
+    "main.js": "/static/js/main.ab1c557d.chunk.js",
+    "main.js.map": "/static/js/main.ab1c557d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
-    "static/js/2.484c3d50.chunk.js": "/static/js/2.484c3d50.chunk.js",
-    "static/js/2.484c3d50.chunk.js.map": "/static/js/2.484c3d50.chunk.js.map",
+    "static/js/2.5bd18ec5.chunk.js": "/static/js/2.5bd18ec5.chunk.js",
+    "static/js/2.5bd18ec5.chunk.js.map": "/static/js/2.5bd18ec5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bf651b6a84a5d219cc54a1107cda2c84.js": "/precache-manifest.bf651b6a84a5d219cc54a1107cda2c84.js",
+    "precache-manifest.e6e42761cdf2813b1e116b45e055adb3.js": "/precache-manifest.e6e42761cdf2813b1e116b45e055adb3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.525a6aba.chunk.css.map": "/static/css/main.525a6aba.chunk.css.map",
-    "static/js/2.484c3d50.chunk.js.LICENSE.txt": "/static/js/2.484c3d50.chunk.js.LICENSE.txt",
+    "static/js/2.5bd18ec5.chunk.js.LICENSE.txt": "/static/js/2.5bd18ec5.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/static/media/102.ded986e1.jpg",
@@ -191,6 +191,7 @@
     "static/media/CSSTF113.jpg": "/static/media/CSSTF113.1d9cd2c7.jpg",
     "static/media/CarouselThreeNext.svg": "/static/media/CarouselThreeNext.9eeb8255.svg",
     "static/media/CarouselThreePrevious.svg": "/static/media/CarouselThreePrevious.ef55c608.svg",
+    "static/media/ColPos.jpg": "/static/media/ColPos.135473de.jpg",
     "static/media/CseImg.jpg": "/static/media/CseImg.6594518f.jpg",
     "static/media/DBMSLAB.JPG": "/static/media/DBMSLAB.c144b506.JPG",
     "static/media/DBMSLab.JPG": "/static/media/DBMSLab.7e1e2570.JPG",
@@ -440,8 +441,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
-    "static/js/2.484c3d50.chunk.js",
+    "static/js/2.5bd18ec5.chunk.js",
     "static/css/main.525a6aba.chunk.css",
-    "static/js/main.bc5da2c5.chunk.js"
+    "static/js/main.ab1c557d.chunk.js"
   ]
 }
