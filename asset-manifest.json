@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.525a6aba.chunk.css",
-    "main.js": "/static/js/main.d2cbad5b.chunk.js",
-    "main.js.map": "/static/js/main.d2cbad5b.chunk.js.map",
+    "main.js": "/static/js/main.c1007ed9.chunk.js",
+    "main.js.map": "/static/js/main.c1007ed9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
-    "static/js/2.e305eb86.chunk.js": "/static/js/2.e305eb86.chunk.js",
-    "static/js/2.e305eb86.chunk.js.map": "/static/js/2.e305eb86.chunk.js.map",
+    "static/js/2.53c303d8.chunk.js": "/static/js/2.53c303d8.chunk.js",
+    "static/js/2.53c303d8.chunk.js.map": "/static/js/2.53c303d8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.acaf7096cfbc1d9d48ab60600cc94dd5.js": "/precache-manifest.acaf7096cfbc1d9d48ab60600cc94dd5.js",
+    "precache-manifest.69d37f83a4ed748d1cdf91cb2750b9df.js": "/precache-manifest.69d37f83a4ed748d1cdf91cb2750b9df.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.525a6aba.chunk.css.map": "/static/css/main.525a6aba.chunk.css.map",
-    "static/js/2.e305eb86.chunk.js.LICENSE.txt": "/static/js/2.e305eb86.chunk.js.LICENSE.txt",
+    "static/js/2.53c303d8.chunk.js.LICENSE.txt": "/static/js/2.53c303d8.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/static/media/102.ded986e1.jpg",
@@ -256,6 +256,7 @@
     "static/media/ProgrammingLab.JPG": "/static/media/ProgrammingLab.0480741c.JPG",
     "static/media/ProjectLab.JPG": "/static/media/ProjectLab.c1039e2a.JPG",
     "static/media/R & D.png": "/static/media/R & D.a444b3b6.png",
+    "static/media/RAVINDRANATH.jpg": "/static/media/RAVINDRANATH.b5f92d82.jpg",
     "static/media/Registernow.jpg": "/static/media/Registernow.f324897a.jpg",
     "static/media/SAEINDIA.jpg": "/static/media/SAEINDIA.9e654bf4.jpg",
     "static/media/SHFAC105.jpg": "/static/media/SHFAC105.58ff9817.jpg",
@@ -443,8 +444,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
-    "static/js/2.e305eb86.chunk.js",
+    "static/js/2.53c303d8.chunk.js",
     "static/css/main.525a6aba.chunk.css",
-    "static/js/main.d2cbad5b.chunk.js"
+    "static/js/main.c1007ed9.chunk.js"
   ]
 }
