@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.525a6aba.chunk.css",
-    "main.js": "/static/js/main.b176b658.chunk.js",
-    "main.js.map": "/static/js/main.b176b658.chunk.js.map",
+    "main.js": "/static/js/main.6dbf0920.chunk.js",
+    "main.js.map": "/static/js/main.6dbf0920.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1001468.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1001468.js.map",
-    "static/js/2.aadb0e6a.chunk.js": "/static/js/2.aadb0e6a.chunk.js",
-    "static/js/2.aadb0e6a.chunk.js.map": "/static/js/2.aadb0e6a.chunk.js.map",
+    "static/js/2.3fce8af6.chunk.js": "/static/js/2.3fce8af6.chunk.js",
+    "static/js/2.3fce8af6.chunk.js.map": "/static/js/2.3fce8af6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7ee29eaaa38ea72aa9c3bc68a5d97d77.js": "/precache-manifest.7ee29eaaa38ea72aa9c3bc68a5d97d77.js",
+    "precache-manifest.27a2012c628d2723659ee8d36db014f2.js": "/precache-manifest.27a2012c628d2723659ee8d36db014f2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.525a6aba.chunk.css.map": "/static/css/main.525a6aba.chunk.css.map",
-    "static/js/2.aadb0e6a.chunk.js.LICENSE.txt": "/static/js/2.aadb0e6a.chunk.js.LICENSE.txt",
+    "static/js/2.3fce8af6.chunk.js.LICENSE.txt": "/static/js/2.3fce8af6.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/static/media/102.ded986e1.jpg",
@@ -252,6 +252,10 @@
     "static/media/PGPROJLAB.JPG": "/static/media/PGPROJLAB.534aaaac.JPG",
     "static/media/PROJECTLAB.JPG": "/static/media/PROJECTLAB.5a3343b4.JPG",
     "static/media/PTC_Banner.jpg": "/static/media/PTC_Banner.c5af7eaa.jpg",
+    "static/media/Pict1.jpg": "/static/media/Pict1.478aa317.jpg",
+    "static/media/Pict2.jpg": "/static/media/Pict2.238dfbb5.jpg",
+    "static/media/Pict3.jpg": "/static/media/Pict3.264a47fa.jpg",
+    "static/media/Pict4.jpg": "/static/media/Pict4.28980b02.jpg",
     "static/media/Power and Back up.jpg": "/static/media/Power and Back up.cb8001f8.jpg",
     "static/media/PriyaGL.jpeg": "/static/media/PriyaGL.3484fb23.jpeg",
     "static/media/ProgrammingLab.JPG": "/static/media/ProgrammingLab.0480741c.JPG",
@@ -445,8 +449,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1001468.js",
-    "static/js/2.aadb0e6a.chunk.js",
+    "static/js/2.3fce8af6.chunk.js",
     "static/css/main.525a6aba.chunk.css",
-    "static/js/main.b176b658.chunk.js"
+    "static/js/main.6dbf0920.chunk.js"
   ]
 }
